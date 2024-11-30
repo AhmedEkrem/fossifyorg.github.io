@@ -1,0 +1,15 @@
+{
+    "isDraft": false,
+    "title": "Calculator",
+    "description": "All Open source and Device optimised. This device compatible calculator app offers a simple calculator function and includes advanced Widget.",
+    "featuresTitle": "Top features",
+    "features": [
+        "No Advertising",
+        "Confidential and Privacy-Conscious",
+        "No In-App Purchases",
+        "Minimalist",
+        "Easy to Use",
+        "Other Measurement Units",
+    ],
+    "img": "/src/assets/app-screenshots/calculator.png"
+}
